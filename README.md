@@ -6,7 +6,7 @@
 
 <br/>
 
-<div>🎓 I'm studying Computer Engineering at the Babol Noshirvani University of Technology.</div>
+<div>🎓 I'm studying Computer Engineering at Babol Noshirvani University of Technology.</div>
 <br/>
 <div>🌱 I'm trying to improve my skills as a front-end developer.</div>
 <br/>
