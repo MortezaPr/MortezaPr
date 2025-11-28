@@ -1,39 +1,36 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Morteza!;" />
-</h1>
+# Hi, I'm Morteza 👋
 
-<h3>A passionate software developer from Iran</h3>
+A software developer passionate about building clean, scalable, and thoughtful software.  
 
-<br/>
+---
 
-<div>🎓 I'm studying Computer Engineering at Babol Noshirvani University of Technology.</div>
-<br/>
-<div>🌱 I'm trying to improve my skills as a front-end developer.</div>
-<br/>
-<div>📚 I love to learn new things and build stuff.</div>
+### 🔧 Tech & Tools
 
-<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![Yup](https://img.shields.io/badge/Yup-3C3C3C?style=flat)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat)
+![Zustand](https://img.shields.io/badge/Zustand-181818?style=flat)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=flat&logo=tailwindcss&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)
 
-<h3> 📫 How to reach me </h3>
-  <a href="mailto:pourramzanmorteza@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/morteza-pourramzan-7bba77250" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+---
 
-<hr/>
+### 📡 Current Focus
+- Improving code quality and developer experience  
+- Strengthening core CS fundamentals for future studies  
+- Experimenting with better tooling, automation, and performance patterns  
 
-<h2>⚒️ Languages, Frameworks, and Tools that I'm using</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,typescript,react,next,redux,mui" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,python,git,github,linux,docker,vscode,postman,figma" />
-</div>
- <hr/>
+### 🧩 Beyond code
+Curiosity-driven learning, problem solving, and building things that make complex systems feel simple.
 
-<h2>⚡ Stats ⚡</h2>
-<div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=MortezaPr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MortezaPr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+---
